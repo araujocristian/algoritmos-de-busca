@@ -1,4 +1,4 @@
-# Algoritimos de Busca 
+# Algoritmos de Busca 
 
-Algoritimos para realizar buscas.
-
+Algoritmos para realizar buscas.
+Uilizados da na disciplina MATA40 - Estruturas de Dados e Algoritmos I
